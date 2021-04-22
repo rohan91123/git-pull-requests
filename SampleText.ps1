@@ -1,4 +1,4 @@
 Write-Host "Hello Tech World"
 Write-Host "Adding new content"
-## some change
+write-host "git pull tutorial sample"
 ## some other change
